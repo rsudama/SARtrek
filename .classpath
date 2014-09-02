@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/skyemarine/sartrek/lib/MGRSPoint.java|com/skyemarine/sartrek/CustomHorizontalFieldManager.java|com/skyemarine/sartrek/lib/CoordinateConversion.java|com/skyemarine/sartrek/lib/XMath.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/net.rim.ejde.BlackBerryVMInstallType/BlackBerry JRE 6.0.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
